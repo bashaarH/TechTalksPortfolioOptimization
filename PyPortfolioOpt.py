@@ -7,7 +7,7 @@ import os
 import threading
 import time
 from Rebalance import percent_rebalance, rebalance
-from Portfolio import PortfolioManager
+from PortfolioManager import PortfolioManager
 
 #------------API Settings----------------------------------------------------------
 APCA_API_KEY_ID = 'PK4XBAFHJJ87641VWI74'
